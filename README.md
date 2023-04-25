@@ -1,0 +1,1 @@
+Solves fill-in puzzles.
